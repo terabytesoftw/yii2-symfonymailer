@@ -24,6 +24,7 @@
             "email": "archibeardrinker@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=8.1",
         "psr/event-dispatcher": "^1.0",
@@ -53,7 +54,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "3.0.x-dev"
+            "dev-master": "22.0.x-dev"
         },
         "sort-packages": true
     },
