@@ -53,9 +53,6 @@
         ]
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "22.0.x-dev"
-        },
         "sort-packages": true
     },
     "config": {
