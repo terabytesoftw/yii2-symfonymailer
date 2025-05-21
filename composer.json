@@ -30,7 +30,7 @@
         "psr/event-dispatcher": "^1.0",
         "symfony/mailer": "^6.4 || ^7.0",
         "symfony/mime": "^6.4 || ^7.0",
-        "yiisoft/yii2": "2.2.x-dev"
+        "yiisoft/yii2": "22.0.x-dev"
     },
     "require-dev": {
         "maglnet/composer-require-checker": "^4.7",
